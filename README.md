@@ -6,4 +6,6 @@
 <li>Any questions pls contact 337024661@qq.com!</li>
 </ol>
 
+<p>Screenshot:</p>
+
 ![image](https://github.com/Joetangfb/Sharper/blob/master/screenshot.png)
