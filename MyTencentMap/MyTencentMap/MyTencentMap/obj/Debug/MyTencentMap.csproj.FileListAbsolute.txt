@@ -1,0 +1,9 @@
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\bin\Debug\MyTencentMap.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\bin\Debug\MyTencentMap.pdb
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\obj\Debug\MyTencentMap.csprojResolveAssemblyReference.cache
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\obj\Debug\MyTencentMap.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap\obj\Debug\MyTencentMap.pdb

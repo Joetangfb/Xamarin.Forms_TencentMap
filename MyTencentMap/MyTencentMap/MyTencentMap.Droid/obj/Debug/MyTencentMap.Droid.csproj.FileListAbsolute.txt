@@ -1,0 +1,54 @@
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid.pdb
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid.dll.mdb
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid.apk
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid-Signed.apk
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\TencentMapBinding.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.pdb
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\MyTencentMap.Droid.csprojResolveAssemblyReference.cache
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\MyTencentMap.Droid.dll
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\MyTencentMap.Droid.pdb
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\android\bin\MyTencentMap.Droid.apk
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable\red_location.png
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\R.cs.flag
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\uploadflags.txt
+C:\Users\tangfubing.GDEPB\documents\visual studio 2013\Projects\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.dll.mdb
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid.pdb
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid.dll.mdb
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid.apk
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.Droid-Signed.apk
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\FormsViewGroup.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\TencentMapBinding.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.pdb
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\MyTencentMap.dll.mdb
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\MyTencentMap.Droid.csprojResolveAssemblyReference.cache
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\MyTencentMap.Droid.dll
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\MyTencentMap.Droid.pdb
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\android\bin\MyTencentMap.Droid.apk
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable\icon.png
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\res\drawable\red_location.png
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\R.cs.flag
+D:\share\sharper.tencentmapbinding\MyTencentMap\MyTencentMap\MyTencentMap.Droid\obj\Debug\uploadflags.txt
